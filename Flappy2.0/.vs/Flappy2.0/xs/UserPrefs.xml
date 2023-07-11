@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5579AF19-3EDA-10F9-23E3-D072185ECC91}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dd6f98fa-1733-4936-ad45-accfe321302f" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.ugui@2.0.0/Runtime/TMP/TMP_Settings.cs">
+    <Files>
+      <File FileName="Assets/Script/GameController.cs" />
+      <File FileName="Assets/Restart.cs" />
+      <File FileName="Library/PackageCache/com.unity.ugui@2.0.0/Runtime/TMP/TMP_Settings.cs" Line="453" Column="1" />
+      <File FileName="Assets/Punti.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flappy2.0" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

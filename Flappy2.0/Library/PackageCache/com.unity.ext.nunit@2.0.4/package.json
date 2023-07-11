@@ -1,0 +1,29 @@
+{
+  "displayName": "Custom NUnit",
+  "name": "com.unity.ext.nunit",
+  "version": "2.0.4",
+  "unity": "2019.4",
+  "description": "A custom version of NUnit used by Unity Test Framework. Based on NUnit version 3.5 and works with all platforms, il2cpp and Mono AOT.",
+  "keywords": [
+    "nunit",
+    "unittest",
+    "test"
+  ],
+  "category": "Libraries",
+  "dependencies": {},
+  "relatedPackages": {
+    "com.unity.ext.nunit.tests": "2.0.4"
+  },
+  "_upm": {
+    "changelog": "- Added support for InstanceID as struct changes"
+  },
+  "upmCi": {
+    "footprint": "7a7adf510e6c89cf815645a518b4b9554c03046b"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.ext.nunit@2.0/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git",
+    "type": "git",
+    "revision": "15ead859bc5a40cb6d2aa9f0479ef4a9cbbf1688"
+  }
+}
